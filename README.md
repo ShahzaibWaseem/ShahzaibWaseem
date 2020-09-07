@@ -19,7 +19,7 @@ This is Shahzaib. I am a Computer Science Student, currently working on Android 
 ## You can find me on
 [<img align="left" alt="ShahzaibWaseem | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ShahzaibWaseem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ShahzaibWaseem | GitHub.io" width="22px" src=" http://i.imgur.com/9I6NRUm.png"/>][githubio]
+[<img align="left" alt="ShahzaibWaseem | GitHub.io" width="22px" src=" https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][githubio]
 
 <br />
 
