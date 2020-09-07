@@ -1,6 +1,7 @@
 # Hi, there
 This is Shahzaib. I am a Computer Science Student, currently working on Android Development (Kotlin, specifically). Other than that I most frequently work in Python. Feel free to go through my GitHub repositories.
 
+<br />
 
 ## Technologies & Tools
 <img align="left" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -13,12 +14,14 @@ This is Shahzaib. I am a Computer Science Student, currently working on Android 
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+<br />
 
 ## You can find me on
 [<img align="left" alt="ShahzaibWaseem | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ShahzaibWaseem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ShahzaibWaseem | GitHub.io" width="22px" src=" http://i.imgur.com/9I6NRUm.png"/>][githubio]
 
+<br />
 
 ## GitHub Stats
 <a href = "https://github.com/ShahzaibWaseem/ShahzaibWaseem">
