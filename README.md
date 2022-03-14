@@ -1,12 +1,12 @@
 # Hi, there
-This is Shahzaib. I am a Computer Science Student, currently working on Android Development (Kotlin, specifically). Other than that I most frequently work in Python. Feel free to go through my GitHub repositories.
-
+This is Shahzaib. I am a Computing Science Master Student at Simon Fraser University. I am currently working Hyperspectral Image Reconstruction. Feel free to go through my GitHub repositories.
 
 ## Technologies & Tools
 <img align="left" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Tensorflow" title="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="PyTorch" title="PyTorch" width="26px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-flame.png?raw=true" />
 <img align="left" alt="OpenCV" title="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
-<img align="left" alt="Android" title="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
+<img align="left" alt="Linux" title="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 <img align="left" alt="Android" title="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -26,7 +26,6 @@ This is Shahzaib. I am a Computer Science Student, currently working on Android 
 <a href = "https://github.com/ShahzaibWaseem/ShahzaibWaseem">
 	<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ShahzaibWaseem&show_icons=true&line_height=27&count_private=true" alt = "Shahzaib's GitHub Stats"/>
 </a>
-
 <a href = "https://github.com/ShahzaibWaseem/ShahzaibWaseem">
 	<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibWaseem&layout=compact&hide=jupyter%20notebook" alt = "Shahzaib's Top Repositories"/>
 </a>
